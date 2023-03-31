@@ -1,0 +1,30 @@
+{
+  "name": "elaborate-node",
+  "version": "1.0.0",
+  "description": "Elaborate integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zelenchuk/elaborate-node.git"
+  },
+  "keywords": [
+    "elaborate",
+    "elaborate-node",
+    "elaborate-react"
+  ],
+  "author": "Zelenchuk Free",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zelenchuk/elaborate-node/issues"
+  },
+  "homepage": "https://github.com/zelenchuk/elaborate-node#readme",
+  "dependencies": {
+    "axios": "^1.3.4",
+    "base64-js": "^1.5.1",
+    "dotenv": "^16.0.3",
+    "node-rsa": "^1.1.1"
+  }
+}
